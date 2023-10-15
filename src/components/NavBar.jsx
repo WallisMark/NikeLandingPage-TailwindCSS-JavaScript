@@ -32,7 +32,7 @@ const NavBar = () => {
           height={25}
           />
         </div>
-      <div className="border-b-2 border-gray-100 absolute bottom-0 left-0 right-0"></div>
+      <div className="border-b-2 border-gray-100 absolute bottom-0 left-0 right-0 "></div>
       </nav>
     </header>
   )
